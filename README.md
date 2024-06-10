@@ -6,6 +6,10 @@
 
 之前写购物车的时候大部分都是以vue3+pinia方式写的，习惯vue3的方式，反而vue2+vuex的方式不会写了，所以新开此仓库记录本此作业所遇到的问题，以及解决方法
 
+如果您也想练习本项目,只需clone以下初始化项目文件
+
+https://github.com/imzql/shopCars-dev
+
 ##### 项目展示
 
 https://shop-cars-five.vercel.app
